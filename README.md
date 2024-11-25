@@ -1,12 +1,12 @@
 This project is a graphical application for solving the 8 Puzzle problem using different search algorithms. It provides a user-friendly interface built with Tkinter to visualize and interact with the puzzle, along with the implementation of algorithms like BFS, DFS, and A* (using Manhattan and Euclidean heuristics).
 
-Table of Contents
-Features
-Algorithms
-Installation
-How to Use
-File Structure
-Contributing
+Table of Contents :
+Features /
+Algorithms /
+Installation /
+How to Use /
+File Structure /
+Contributing /
 License
 
 
